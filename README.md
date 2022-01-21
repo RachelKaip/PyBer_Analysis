@@ -25,7 +25,7 @@ The third cloumn in the data frame above, "Total Fares" dipcts the amount of mon
 
 We can visualize this gap better with the line chart we created that displays each city type's sum of fares for the first few months of 2019- January through April.  
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/94569240/150586141-84e451b2-fce4-4c35-adb6-9428bd5ed7c1.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/94569240/150586877-972d1d05-b3f0-493f-af5a-8adeeb747976.png)
 
 Visualizing the data this way helps puts into perspective just how big the differences are between the sums of fares for each city type.  
 
