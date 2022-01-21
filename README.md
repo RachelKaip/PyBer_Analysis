@@ -13,7 +13,8 @@ Thinking about the history of rideshare services, it's not shocking that we see 
 
 That being said, let's take a look at differences of rides, drivers, and fares for each city type.   
 
-*insert df screenshot*
+![pyber_summary_df](https://user-images.githubusercontent.com/94569240/150586098-12b89529-369d-4288-8dc5-f8d74deb3568.PNG)
+
 
 #### Total Rides, Drivers, and Fares per City Type
 In the first column, "Total Rides", of the dataframe shown above, we see the total number of rides taken in each city type in 2019.  The total number of urban rides is **almost 3x larger** than the total rides in suburban cities and is **13x larger** than those in rural ones.
@@ -24,7 +25,7 @@ The third cloumn in the data frame above, "Total Fares" dipcts the amount of mon
 
 We can visualize this gap better with the line chart we created that displays each city type's sum of fares for the first few months of 2019- January through April.  
 
-*insert graph png*
+![PyBer_fare_summary](https://user-images.githubusercontent.com/94569240/150586141-84e451b2-fce4-4c35-adb6-9428bd5ed7c1.png)
 
 Visualizing the data this way helps puts into perspective just how big the differences are between the sums of fares for each city type.  
 
